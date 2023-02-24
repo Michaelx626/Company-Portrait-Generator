@@ -1,0 +1,2 @@
+# ignore the dist folder and the index.html
+/dist/index.html
