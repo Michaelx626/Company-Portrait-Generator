@@ -8,11 +8,11 @@
 
 <h2 align="center"> Usage </h2>
 <p align="center"> You can access my project, Company Portrait Generator, by simply clicking on this highlighted text. </p>
-<p align="center"> <a href="" target="_blank"> Here </a> </p>
+<p align="center"> <a href="https://michaelx626.github.io/Company-Portrait-Generator/dist/index.html" target="_blank"> Here </a> </p>
 
 <h2 align="center"> Screenshots </h2>
 
-![text]()
+![text](https://github.com/Michaelx626/Company-Portrait-Generator/blob/main/Screenshots/Screen%20Shot%202023-02-23%20at%2011.15.19%20PM.png)
 
 <h2 align="center">  Credit </h2>
 <p align="center"> N/A
